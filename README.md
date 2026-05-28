@@ -31,24 +31,18 @@ The main conformal methods are:
 .
 ├── bank_conformal_experiments.py
 ├── run_robustness_scan.py
+├── run_all.py
 ├── twm_bank_experiment.py
 ├── wdbc_conformal_2x2.py
 ├── wdbc_synthetic_shift_experiment.py
 ├── data/
 │   └── README.md
 ├── reports/
-│   └── ## Report
-
-A public version of the project report is available at:
-
-```text
-    reports/final_project_report_public.pdf
+│   └── final_project_report_public.pdf
 ├── assets/
 ├── requirements.txt
 ├── LICENSE
 └── README.md
-```
-
 ## Data
 
 Raw datasets are not included in this repository.
@@ -132,18 +126,16 @@ out_twm_bank/
 
 These generated output folders are intentionally ignored by Git.
 
-## Report
 
-The final project report is available at:
+然后把 **Report** 那一段改成只保留这一版：
 
-```text
+```markdown
 ## Report
 
 A public version of the project report is available at:
 
 ```text
-reports/final_project_report_public.pdf
-```
+reports/final_project_report_public.pdf```
 
 ## Notes
 
