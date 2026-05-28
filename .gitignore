@@ -205,3 +205,21 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Project data files
+data/*.csv
+data/*.data
+bank-full.csv
+bank-additional-full.csv
+wdbc.data
+
+# Experiment outputs
+out_*/
+outputs/
+results/
+*.log
+
+# LaTeX/build artifacts
+*.aux
+*.bbl
+*.blg
+*.synctex.gz
