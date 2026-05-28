@@ -1,6 +1,6 @@
 # Conformal Prediction under Class Imbalance and Temporal Shift
 
-This repository contains the code and report for a final project on conformal prediction for binary tabular classification under class imbalance and temporal shift.
+This repository contains the code and public report for a final project on conformal prediction for binary tabular classification under class imbalance and temporal shift.
 
 The project studies when standard conformal coverage guarantees behave as expected and when they become fragile because calibration data and deployment data are no longer exchangeable.
 
@@ -43,6 +43,8 @@ The main conformal methods are:
 ├── requirements.txt
 ├── LICENSE
 └── README.md
+```
+
 ## Data
 
 Raw datasets are not included in this repository.
@@ -126,16 +128,13 @@ out_twm_bank/
 
 These generated output folders are intentionally ignored by Git.
 
-
-然后把 **Report** 那一段改成只保留这一版：
-
-```markdown
 ## Report
 
 A public version of the project report is available at:
 
 ```text
-reports/final_project_report_public.pdf```
+reports/final_project_report_public.pdf
+```
 
 ## Notes
 
