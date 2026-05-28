@@ -37,7 +37,12 @@ The main conformal methods are:
 ├── data/
 │   └── README.md
 ├── reports/
-│   └── final_project_report.pdf
+│   └── ## Report
+
+A public version of the project report is available at:
+
+```text
+    reports/final_project_report_public.pdf
 ├── assets/
 ├── requirements.txt
 ├── LICENSE
@@ -132,7 +137,12 @@ These generated output folders are intentionally ignored by Git.
 The final project report is available at:
 
 ```text
-reports/final_project_report.pdf
+## Report
+
+A public version of the project report is available at:
+
+```text
+reports/final_project_report_public.pdf
 ```
 
 ## Notes
